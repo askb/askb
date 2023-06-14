@@ -8,22 +8,22 @@ I'm an Open Source Software maintainer and evangalist.
 - [e-mail](mailto:askb23@gmail.com)
 - [Telegram]()
 
-I spend most of my time working on OSS projects. If you liked any of
-my contributions and some of my work helped you buy me [ko-fi](https://ko-fi.com/askb23).
+I spend my time working on OSS projects. If you liked any of
+my contributions and my work helped buy me [ko-fi](https://ko-fi.com/askb23).
 
 ## Stats
 
-Daily stats.
+Daily stats:
 
 ![contributions graph](graph.png)
 
-***Languages By Contributions***
+***Languages by contributions***
 
 Shell, Python, Makefile, Go, Java, HTML, Dockerfile, VimScript, Perl, JavaScript, Groovy, C, Ruby, ProtocolBuffer, PowerShell, Groff, CSS, CMake, C++, Batchfile.
 
 Number of contributions yesterday: **3**.
 
-***Most Popular***
+***Most popular***
 
 - [myvagrantfiles](https://github.com/askb/myvagrantfiles)
 - [Dockerfiles](https://github.com/askb/Dockerfiles)
@@ -31,7 +31,7 @@ Number of contributions yesterday: **3**.
 - [releng-docker](https://github.com/askb/releng-docker)
 - [askb](https://github.com/askb/askb)
 
-***Recently Starred***
+***Recently starred***
 
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [just](https://github.com/casey/just)
