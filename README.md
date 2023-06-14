@@ -19,16 +19,24 @@ Daily stats.
 
 ***Languages By Contributions***
 
-.
+Shell, Python, Makefile, Go, Java, HTML, Dockerfile, VimScript, Perl, JavaScript, Groovy, C, Ruby, ProtocolBuffer, PowerShell, Groff, CSS, CMake, C++, Batchfile.
 
-Number of contributions yesterday: **null**.
+Number of contributions yesterday: **3**.
 
 ***Most Popular***
 
-
+- [myvagrantfiles](https://github.com/askb/myvagrantfiles)
+- [Dockerfiles](https://github.com/askb/Dockerfiles)
+- [scripts](https://github.com/askb/scripts)
+- [releng-docker](https://github.com/askb/releng-docker)
+- [askb](https://github.com/askb/askb)
 
 ***Recently Starred***
 
-
+- [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+- [just](https://github.com/casey/just)
+- [ospology](https://github.com/todogroup/ospology)
+- [github-actions-course-resources](https://github.com/academind/github-actions-course-resources)
+- [benfords_law](https://github.com/mawuliadjei/benfords_law)
 
 
