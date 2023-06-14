@@ -38,8 +38,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
-          commit_author_email: askb23@gmail.com
-          commit_author_name: Anil Belur
+          commit_user_email: askb23@gmail.com
+          commit_user_name: Anil Belur
           commit_message: Automatic update
           push_options: '--force'
       - name: List files in the repository using github context
