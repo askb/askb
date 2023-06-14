@@ -178,7 +178,7 @@ I'm an Open Source Software maintainer and evangalist.
 - [Telegram]($telegram)
 
 I spend my time working on OSS projects. If you liked any of
-my contributions and my work helped buy me [ko-fi](https://ko-fi.com/askb23).
+my contributions and my work helped you, sponsor me [ko-fi](https://ko-fi.com/askb23).
 
 ## Stats
 
