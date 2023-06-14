@@ -177,26 +177,26 @@ I'm an Open Source Software maintainer and evangalist.
 - [e-mail](mailto:$email)
 - [Telegram]($telegram)
 
-I spend most of my time working on OSS projects. If you liked any of
-my contributions and some of my work helped you buy me [ko-fi](https://ko-fi.com/askb23).
+I spend my time working on OSS projects. If you liked any of
+my contributions and my work helped buy me [ko-fi](https://ko-fi.com/askb23).
 
 ## Stats
 
-Daily stats.
+Daily stats:
 
 ![contributions graph]($graph_out)
 
-***Languages By Contributions***
+***Languages by contributions***
 
 $langs
 
 Number of contributions yesterday: **$total**.
 
-***Most Popular***
+***Most popular***
 
 $pops
 
-***Recently Starred***
+***Recently starred***
 
 $starred
 
