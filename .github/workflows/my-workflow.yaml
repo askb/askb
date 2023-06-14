@@ -41,7 +41,6 @@ jobs:
           commit_author_email: askb23@gmail.com
           commit_author_name: Anil Belur
           commit_message: Automatic update
-          commit_options: '--amend'
           push_options: '--force'
       - name: List files in the repository using github context
         run: |
