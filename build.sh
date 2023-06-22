@@ -153,8 +153,8 @@ starred() {
 }
 
 plot_contributions() {
-    graph contributions.csv -f '' --fontsize 10 --width 1 --marker '' \
-        --xscale 15 -o "$1"
+    graph contributions.csv -f '' --fontsize 7 --width 3 --marker '' \
+        --style='-,-' --xscale 5 -o "$1"
 }
 
 
