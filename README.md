@@ -19,7 +19,7 @@ Daily stats:
 
 ***Languages by contributions***
 
-Shell, Python, Makefile, Java, Dockerfile, HTML, Go, VimScript, JavaScript, HCL, Groovy, C, Ruby, ProtocolBuffer, PowerShell, Perl, Groff, CSS, CMake, C++, Batchfile.
+Shell, Python, Makefile, Java, HTML, Dockerfile, Go, VimScript, JavaScript, HCL, Groovy, CSS, C, Ruby, ProtocolBuffer, PowerShell, Perl, Groff, CMake, C++, Batchfile.
 
 Number of contributions yesterday: **1**.
 
