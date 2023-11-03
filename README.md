@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Python, Makefile, Java, HTML, Dockerfile, JavaScript, Go, VimScript, HCL, Groovy, CSS, C, Ruby, ProtocolBuffer, PowerShell, Perl, Groff, CMake, C++, Batchfile.
 
-Number of contributions yesterday: **4**.
+Number of contributions yesterday: **2**.
 
 ***Most popular***
 
@@ -29,7 +29,7 @@ Number of contributions yesterday: **4**.
 - [Dockerfiles](https://github.com/askb/Dockerfiles)
 - [scripts](https://github.com/askb/scripts)
 - [github2gerrit](https://github.com/askb/github2gerrit)
-- [opendaylight.github.io](https://github.com/opendaylight/opendaylight.github.io)
+- [opendaylight-website](https://github.com/opendaylight/opendaylight-website)
 
 ***Recently starred***
 
