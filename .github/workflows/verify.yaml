@@ -20,7 +20,8 @@ jobs:
 
   commit-message:
     runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
+    # yamllint disable-line rule:line-length
+    if: ${{ github.event_name == 'pull_request' || (github.event_name == 'push' && !contains( github.event.head_commit.message, 'Merge pull request')) }}
     steps:
       - uses: amannn/action-semantic-pull-request@v5
         env:
