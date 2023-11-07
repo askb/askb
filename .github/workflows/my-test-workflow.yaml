@@ -1,4 +1,4 @@
-name: test-workflows-gha
+name: Simple-test-workflow-gha
 
 # yamllint disable-line rule:truthy
 run-name: ${{ github.actor }} is testing out GitHub Actions
