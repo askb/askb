@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Python, Makefile, JavaScript, Java, HTML, Dockerfile, Go, VimScript, TypeScript, HCL, Groovy, CSS, C, Ruby, ProtocolBuffer, PowerShell, Perl, Groff, CMake, C++, Batchfile.
 
-Number of contributions yesterday: **3**.
+Number of contributions yesterday: **2**.
 
 ***Most popular***
 
@@ -33,10 +33,10 @@ Number of contributions yesterday: **3**.
 
 ***Recently starred***
 
-- [runner.server](https://github.com/ChristopherHX/runner.server)
-- [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
-- [just](https://github.com/casey/just)
-- [ospology](https://github.com/todogroup/ospology)
-- [github-actions-course-resources](https://github.com/academind/github-actions-course-resources)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-sre](https://github.com/dastergon/awesome-sre)
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 
