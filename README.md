@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Python, Makefile, JavaScript, Dockerfile, Java, HTML, Go, CSS, VimScript, TypeScript, HCL, Groovy, CMake, C++, C, Smarty, Ruby, ProtocolBuffer, PowerShell, Perl, Groff, BitBake, Batchfile.
 
-Number of contributions yesterday: **4**.
+Number of contributions yesterday: **3**.
 
 ***Most popular***
 
