@@ -33,10 +33,10 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
+- [Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)
+- [The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-- [awesome-sre](https://github.com/dastergon/awesome-sre)
-- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 
