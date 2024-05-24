@@ -21,15 +21,15 @@ Daily stats:
 
 Shell, Python, Makefile, Dockerfile, JavaScript, Java, HTML, CSS, Go, TypeScript, Perl, HCL, Groovy, CMake, C++, C, VimScript, Smarty, ProtocolBuffer, PowerShell, Groff, BitBake, Batchfile.
 
-Number of contributions yesterday: **1**.
+Number of contributions yesterday: **5**.
 
 ***Most popular***
 
 - [myvagrantfiles](https://github.com/askb/myvagrantfiles)
 - [Dockerfiles](https://github.com/askb/Dockerfiles)
 - [scripts](https://github.com/askb/scripts)
+- [releng-sandbox](https://github.com/opendaylight/releng-sandbox)
 - [github2gerrit](https://github.com/askb/github2gerrit)
-- [opendaylight.github.io](https://github.com/opendaylight/opendaylight.github.io)
 
 ***Recently starred***
 
