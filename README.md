@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Python, Makefile, JavaScript, Dockerfile, Java, HTML, Go, CSS, VimScript, TypeScript, Perl, HCL, Groovy, C++, Smarty, Ruby, ProtocolBuffer, PowerShell, Groff, CMake, C, BitBake, Batchfile.
 
-Number of contributions yesterday: **3**.
+Number of contributions yesterday: **1**.
 
 ***Most popular***
 
@@ -33,10 +33,10 @@ Number of contributions yesterday: **3**.
 
 ***Recently starred***
 
+- [git-filter-repo](https://github.com/newren/git-filter-repo)
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 - [courses](https://github.com/SkalskiP/courses)
 - [Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 - [Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)
-- [The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
 
 
