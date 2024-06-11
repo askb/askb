@@ -200,4 +200,8 @@ $pops
 
 $starred
 
+***GITHUB Metrics***
+
+![Metrics](https://github.com/askb/askb/blob/main/github-metrics.svg)
+
 " > "$output_file"

@@ -38,5 +38,3 @@ Number of contributions yesterday: **2**.
 - [courses](https://github.com/SkalskiP/courses)
 - [Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 - [Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)
-
-
