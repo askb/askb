@@ -21,23 +21,23 @@ Daily stats:
 
 Shell, Python, Makefile, JavaScript, Dockerfile, Java, HTML, Go, CSS, VimScript, TypeScript, Perl, HCL, Groovy, C++, Smarty, Ruby, ProtocolBuffer, PowerShell, Groff, CMake, C#, C, BitBake, Batchfile.
 
-Number of contributions yesterday: **27**.
+Number of contributions yesterday: **4**.
 
 ***Most popular***
 
+- [github2gerrit](https://github.com/askb/github2gerrit)
 - [myvagrantfiles](https://github.com/askb/myvagrantfiles)
 - [Dockerfiles](https://github.com/askb/Dockerfiles)
 - [scripts](https://github.com/askb/scripts)
 - [releng-sandbox](https://github.com/opendaylight/releng-sandbox)
-- [github2gerrit](https://github.com/askb/github2gerrit)
 
 ***Recently starred***
 
+- [github2gerrit](https://github.com/askb/github2gerrit)
 - [terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)
 - [git-filter-repo](https://github.com/newren/git-filter-repo)
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 - [courses](https://github.com/SkalskiP/courses)
-- [Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 
 ***GITHUB Metrics***
 
