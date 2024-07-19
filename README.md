@@ -19,21 +19,21 @@ Daily stats:
 
 ***Languages by contributions***
 
-Shell, Python, Makefile, JavaScript, Dockerfile, Java, HTML, Go, CSS, VimScript, TypeScript, Perl, HCL, Groovy, C++, Smarty, Ruby, ProtocolBuffer, PowerShell, Groff, CMake, C#, C, BitBake, Batchfile.
+Shell, Python, Makefile, JavaScript, Dockerfile, Java, HTML, Go, CSS, TypeScript, Perl, HCL, Groovy, C++, VimScript, Smarty, Ruby, ProtocolBuffer, PowerShell, Groff, CMake, C#, C, BitBake, Batchfile.
 
-Number of contributions yesterday: **10**.
+Number of contributions yesterday: **2**.
 
 ***Most popular***
 
-- [github2gerrit](https://github.com/askb/github2gerrit)
 - [myvagrantfiles](https://github.com/askb/myvagrantfiles)
 - [Dockerfiles](https://github.com/askb/Dockerfiles)
 - [scripts](https://github.com/askb/scripts)
 - [releng-sandbox](https://github.com/opendaylight/releng-sandbox)
+- [opendaylight.github.io](https://github.com/opendaylight/opendaylight.github.io)
 
 ***Recently starred***
 
-- [github2gerrit](https://github.com/askb/github2gerrit)
+- [github2gerrit](https://github.com/lfit/github2gerrit)
 - [terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)
 - [git-filter-repo](https://github.com/newren/git-filter-repo)
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler)
