@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [bermuda](https://github.com/agittins/bermuda)
+- [homeassistant-blueprints](https://github.com/tykeal/homeassistant-blueprints)
+- [homeassistant-rental-control](https://github.com/tykeal/homeassistant-rental-control)
 - [github2gerrit](https://github.com/lfit/github2gerrit)
 - [terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)
-- [git-filter-repo](https://github.com/newren/git-filter-repo)
-- [gitbutler](https://github.com/gitbutlerapp/gitbutler)
-- [courses](https://github.com/SkalskiP/courses)
 
 ***GITHUB Metrics***
 
