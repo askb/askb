@@ -37,7 +37,7 @@ Number of contributions yesterday: **2**.
 - [homeassistant-blueprints](https://github.com/tykeal/homeassistant-blueprints)
 - [homeassistant-rental-control](https://github.com/tykeal/homeassistant-rental-control)
 - [github2gerrit](https://github.com/lfit/github2gerrit)
-- [terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner)
+- [terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner)
 
 ***GITHUB Metrics***
 
