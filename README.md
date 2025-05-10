@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [gerrymander](https://github.com/berrange/gerrymander)
 - [app](https://github.com/dcoapp/app)
 - [bermuda](https://github.com/agittins/bermuda)
 - [homeassistant-blueprints](https://github.com/tykeal/homeassistant-blueprints)
-- [homeassistant-rental-control](https://github.com/tykeal/homeassistant-rental-control)
 
 ***GITHUB Metrics***
 
