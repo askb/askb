@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Java, Python, Makefile, JavaScript, HTML, Dockerfile, CSS, Perl, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Groff, C++, C#, C, Batchfile.
 
-Number of contributions yesterday: **1**.
+Number of contributions yesterday: **2**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [n8n-workflows](https://github.com/Zie619/n8n-workflows)
 - [n8n](https://github.com/n8n-io/n8n)
 - [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [gerrymander](https://github.com/berrange/gerrymander)
-- [app](https://github.com/dcoapp/app)
 
 ***GITHUB Metrics***
 
