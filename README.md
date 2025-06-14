@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [local-llm-stack](https://github.com/dalekurt/local-llm-stack)
+- [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+- [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews)
+- [activepieces](https://github.com/activepieces/activepieces)
 - [prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-- [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-- [n8n-workflows](https://github.com/Zie619/n8n-workflows)
-- [n8n](https://github.com/n8n-io/n8n)
-- [awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 
 ***GITHUB Metrics***
 
