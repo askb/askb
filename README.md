@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [renovate](https://github.com/renovatebot/renovate)
+- [prompts](https://github.com/SabrinaRamonov/prompts)
 - [local-llm-stack](https://github.com/dalekurt/local-llm-stack)
 - [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
 - [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews)
-- [activepieces](https://github.com/activepieces/activepieces)
-- [prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 
 ***GITHUB Metrics***
 
