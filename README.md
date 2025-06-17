@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Java, Python, Makefile, JavaScript, HTML, Dockerfile, CSS, Perl, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Groff, C++, C#, C, Batchfile.
 
-Number of contributions yesterday: **1**.
+Number of contributions yesterday: **5**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass)
+- [short-video-maker](https://github.com/gyoridavid/short-video-maker)
+- [redesigned-octo-barnacle](https://github.com/shabbirun/redesigned-octo-barnacle)
 - [renovate](https://github.com/renovatebot/renovate)
 - [prompts](https://github.com/SabrinaRamonov/prompts)
-- [local-llm-stack](https://github.com/dalekurt/local-llm-stack)
-- [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
-- [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews)
 
 ***GITHUB Metrics***
 
