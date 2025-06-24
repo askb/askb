@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Java, Python, Makefile, JavaScript, HTML, Dockerfile, CSS, Perl, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Groff, C++, C#, C, Batchfile.
 
-Number of contributions yesterday: **1**.
+Number of contributions yesterday: **3**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [postiz-app](https://github.com/gitroomhq/postiz-app)
 - [Telco-AIX](https://github.com/open-experiments/Telco-AIX)
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
 - [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
 - [n8n-ai-workflows](https://github.com/lucaswalter/n8n-ai-workflows)
-- [n8n-autoscaling](https://github.com/conor-is-my-name/n8n-autoscaling)
 
 ***GITHUB Metrics***
 
