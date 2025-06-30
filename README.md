@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds)
+- [no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit)
 - [postiz-app](https://github.com/gitroomhq/postiz-app)
 - [Telco-AIX](https://github.com/open-experiments/Telco-AIX)
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
-- [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
-- [n8n-ai-workflows](https://github.com/lucaswalter/n8n-ai-workflows)
 
 ***GITHUB Metrics***
 
