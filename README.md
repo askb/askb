@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [n8n-workflows](https://github.com/hanson-cheng/n8n-workflows)
 - [AudioX](https://github.com/ZeyueT/AudioX)
 - [AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator)
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)
 - [Wan2GP](https://github.com/deepbeepmeep/Wan2GP)
-- [awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds)
 
 ***GITHUB Metrics***
 
