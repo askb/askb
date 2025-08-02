@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Java, Python, Makefile, JavaScript, HTML, Dockerfile, CSS, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Perl, Groff, C++, C, Batchfile.
 
-Number of contributions yesterday: **17**.
+Number of contributions yesterday: **9**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **17**.
 
 ***Recently starred***
 
+- [cui](https://github.com/BMPixel/cui)
+- [agents](https://github.com/wshobson/agents)
 - [ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper)
 - [n8n-workflows](https://github.com/hanson-cheng/n8n-workflows)
 - [AudioX](https://github.com/ZeyueT/AudioX)
-- [AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator)
-- [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)
 
 ***GITHUB Metrics***
 
