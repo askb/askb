@@ -33,7 +33,7 @@ Number of contributions yesterday: **9**.
 
 ***Recently starred***
 
-- [cui](https://github.com/BMPixel/cui)
+- [cui](https://github.com/wbopan/cui)
 - [agents](https://github.com/wshobson/agents)
 - [ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper)
 - [n8n-workflows](https://github.com/hanson-cheng/n8n-workflows)
