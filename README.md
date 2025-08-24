@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Java, Python, Makefile, JavaScript, Dockerfile, HTML, CSS, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Perl, Groff, C++, C, Batchfile.
 
-Number of contributions yesterday: **2**.
+Number of contributions yesterday: **1**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **2**.
 
 ***Recently starred***
 
+- [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- [ai-agents-no-code-tools](https://github.com/gyoridavid/ai-agents-no-code-tools)
 
 ***GITHUB Metrics***
 
