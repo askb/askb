@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [suno-api](https://github.com/gcui-art/suno-api)
 - [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ***GITHUB Metrics***
 
