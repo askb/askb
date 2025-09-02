@@ -19,9 +19,9 @@ Daily stats:
 
 ***Languages by contributions***
 
-Shell, Java, Python, Makefile, JavaScript, Dockerfile, HTML, CSS, Perl, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Groff, C++, C, Batchfile.
+Shell, Java, Python, Makefile, JavaScript, Dockerfile, HTML, CSS, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Perl, Groff, C++, C, Batchfile.
 
-Number of contributions yesterday: **1**.
+Number of contributions yesterday: **32**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [n8n-infranodus-workflow-templates](https://github.com/infranodus/n8n-infranodus-workflow-templates)
 - [n8n-manager-for-ai-agents](https://github.com/czlonkowski/n8n-manager-for-ai-agents)
 - [SadTalker](https://github.com/OpenTalker/SadTalker)
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [suno-api](https://github.com/gcui-art/suno-api)
-- [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
 ***GITHUB Metrics***
 
