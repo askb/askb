@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Java, Python, Makefile, JavaScript, Dockerfile, HTML, CSS, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Perl, C++, C, Batchfile.
 
-Number of contributions yesterday: **11**.
+Number of contributions yesterday: **9**.
 
 ***Most popular***
 
@@ -33,11 +33,11 @@ Number of contributions yesterday: **11**.
 
 ***Recently starred***
 
+- [copilot-cli](https://github.com/github/copilot-cli)
 - [spec-kit](https://github.com/github/spec-kit)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 - [opencode](https://github.com/sst/opencode)
 - [n8n-infranodus-workflow-templates](https://github.com/infranodus/n8n-infranodus-workflow-templates)
-- [n8n-manager-for-ai-agents](https://github.com/czlonkowski/n8n-manager-for-ai-agents)
 
 ***GITHUB Metrics***
 
