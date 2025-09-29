@@ -33,11 +33,11 @@ Number of contributions yesterday: **9**.
 
 ***Recently starred***
 
+- [meross_lan](https://github.com/krahabb/meross_lan)
 - [copilot-cli](https://github.com/github/copilot-cli)
 - [spec-kit](https://github.com/github/spec-kit)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 - [opencode](https://github.com/sst/opencode)
-- [n8n-infranodus-workflow-templates](https://github.com/infranodus/n8n-infranodus-workflow-templates)
 
 ***GITHUB Metrics***
 
