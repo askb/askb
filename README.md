@@ -33,11 +33,11 @@ Number of contributions yesterday: **9**.
 
 ***Recently starred***
 
+- [garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana)
 - [meross_lan](https://github.com/krahabb/meross_lan)
 - [copilot-cli](https://github.com/github/copilot-cli)
 - [spec-kit](https://github.com/github/spec-kit)
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-- [opencode](https://github.com/sst/opencode)
 
 ***GITHUB Metrics***
 
