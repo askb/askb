@@ -19,17 +19,17 @@ Daily stats:
 
 ***Languages by contributions***
 
-Shell, Python, Java, Makefile, JavaScript, Dockerfile, HTML, CSS, Perl, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, C++, C, Batchfile.
+Shell, Python, Java, Makefile, JavaScript, Dockerfile, HTML, CSS, Perl, HCL, Groovy, Go, VimScript, TypeScript, ProtocolBuffer, PowerShell, Groff, C++, C, Batchfile.
 
-Number of contributions yesterday: **6**.
+Number of contributions yesterday: **5**.
 
 ***Most popular***
 
+- [releng-sandbox](https://github.com/opendaylight/releng-sandbox)
+- [opendaylight.github.io](https://github.com/opendaylight/opendaylight.github.io)
 - [myvagrantfiles](https://github.com/askb/myvagrantfiles)
 - [Dockerfiles](https://github.com/askb/Dockerfiles)
 - [scripts](https://github.com/askb/scripts)
-- [packer-build-action](https://github.com/askb/packer-build-action)
-- [tailscale-openstack-bastion-action](https://github.com/askb/tailscale-openstack-bastion-action)
 
 ***Recently starred***
 
