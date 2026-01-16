@@ -21,7 +21,7 @@ Daily stats:
 
 Shell, Python, Java, Makefile, JavaScript, Dockerfile, HTML, Groovy, HCL, VimScript, TypeScript, ProtocolBuffer, PowerShell, Perl, Groff, Go, CSS, C++, C, Batchfile.
 
-Number of contributions yesterday: **3**.
+Number of contributions yesterday: **4**.
 
 ***Most popular***
 
@@ -37,7 +37,7 @@ Number of contributions yesterday: **3**.
 - [meross_lan](https://github.com/krahabb/meross_lan)
 - [copilot-cli](https://github.com/github/copilot-cli)
 - [spec-kit](https://github.com/github/spec-kit)
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+- [reactive-resume](https://github.com/amruthpillai/reactive-resume)
 
 ***GITHUB Metrics***
 
