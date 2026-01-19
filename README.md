@@ -33,11 +33,11 @@ Number of contributions yesterday: **1**.
 
 ***Recently starred***
 
+- [HunspellColorize](https://github.com/torvalds/HunspellColorize)
 - [garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana)
 - [meross_lan](https://github.com/krahabb/meross_lan)
 - [copilot-cli](https://github.com/github/copilot-cli)
 - [spec-kit](https://github.com/github/spec-kit)
-- [reactive-resume](https://github.com/amruthpillai/reactive-resume)
 
 ***GITHUB Metrics***
 
