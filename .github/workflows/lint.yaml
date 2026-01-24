@@ -1,0 +1,56 @@
+---
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2025 The Linux Foundation
+
+name: Lint Scripts & Workflows
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  shellcheck:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@48db77f7f5c2c8b5f8f0bb1e15c3d1aa8bb39edb # v6.0.1
+
+      - name: Install shellcheck
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y shellcheck
+
+      - name: Run shellcheck
+        run: |
+          echo "🔍 Running shellcheck on all shell scripts..."
+          shellcheck *.sh
+          echo "✅ Shellcheck passed"
+
+  actionlint:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@48db77f7f5c2c8b5f8f0bb1e15c3d1aa8bb39edb # v6.0.1
+
+      - name: Run actionlint
+        uses: raven-actions/actionlint@92d6e7f0dcf0c5ee5dd319d5a1c9fa13bb5058e9 # v2.2.0
+        with:
+          fail-on-error: true
+
+  yamllint:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@48db77f7f5c2c8b5f8f0bb1e15c3d1aa8bb39edb # v6.0.1
+
+      - name: Install yamllint
+        run: pip install yamllint
+
+      - name: Run yamllint
+        run: |
+          echo "🔍 Running yamllint..."
+          yamllint .
+          echo "✅ YAML lint passed"
