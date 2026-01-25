@@ -157,7 +157,6 @@ plot_contributions() {
 load_dotenv
 
 langs=$(languages)
-starred=$(starred)
 
 plot_contributions "$graph_out"
 
