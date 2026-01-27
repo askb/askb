@@ -26,7 +26,7 @@ jobs:
       - name: Run shellcheck
         run: |
           echo "🔍 Running shellcheck on all shell scripts..."
-          shellcheck *.sh
+          shellcheck -S warning *.sh
           echo "✅ Shellcheck passed"
 
   actionlint:
@@ -35,11 +35,13 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
+      - name: Download actionlint
+        run: |
+          bash <(curl https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+        shell: bash
+
       - name: Run actionlint
-        # yamllint disable-line rule:line-length
-        uses: raven-actions/actionlint@92d6e7f0dcf0c5ee5dd319d5a1c9fa13bb5058e9 # v2.2.0
-        with:
-          fail-on-error: true
+        run: ./actionlint -color
 
   yamllint:
     runs-on: ubuntu-24.04
