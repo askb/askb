@@ -26,7 +26,7 @@ jobs:
       - name: Run shellcheck
         run: |
           echo "🔍 Running shellcheck on all shell scripts..."
-          shellcheck -S warning *.sh
+          shellcheck -S warning ./*.sh
           echo "✅ Shellcheck passed"
 
   actionlint:
