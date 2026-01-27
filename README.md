@@ -138,14 +138,6 @@ I'm always interested in discussing:
 
 If my open source contributions have helped you, consider buying me a coffee! Your support helps me dedicate more time to building tools that benefit the community.
 
----
-
-## 📊 Presentations
-
-- **[Development Best Practices](ppt/20221003%20-%20Development%20Best%20Practices%20Final.pdf)** - ONES DTF 2022
-
----
-
 <div align="center">
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/askb23)
@@ -161,6 +153,6 @@ If my open source contributions have helped you, consider buying me a coffee! Yo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=askb&color=brightgreen&style=flat-square&label=Profile+Views)
 
-*Last updated: Auto-generated via GitHub Actions • 2026-01-27 02:49 UTC*
+*Last updated: Auto-generated via GitHub Actions • 2026-01-27 02:51 UTC*
 
 </div>
