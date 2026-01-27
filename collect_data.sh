@@ -1,4 +1,6 @@
-#!/bin/sh
+#!/usr/bin/env bash
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2025 The Linux Foundation
 # Collect contributions for the past number of days specified by argument
 
 api_endpoint="https://api.github.com/graphql"
@@ -10,7 +12,7 @@ num_of_args=$#
 
 check_args() {
     if [ $num_of_args -ne 1 ]; then
-        echo "\033[31mError: wrong number of arguments\033[0"
+        printf "\033[31mError: wrong number of arguments\033[0m\n"
         exit 1
     fi
 }

@@ -76,7 +76,7 @@ load_dotenv() {
         . "$dotenv"
         echo ".env loaded"
     fi
-    
+
     # Check if ACCESS_TOKEN is set (from env or .env)
     if [ -z "${ACCESS_TOKEN:-}" ]; then
         echo "ERROR: ACCESS_TOKEN not set" >&2

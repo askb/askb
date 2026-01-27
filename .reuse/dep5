@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: askb
+Upstream-Contact: Anil Belur <askb23@gmail.com>
+Source: https://github.com/askb/askb
+
+Files: .actrc .editorconfig .gitignore .gitlint README.md contributions.csv *.svg *.png ppt/* .markdownlintrc .codespell
+Copyright: 2025 Anil Belur <askb23@gmail.com>
+License: Apache-2.0
