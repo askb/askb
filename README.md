@@ -34,26 +34,31 @@ When I'm not optimizing build systems or experimenting with AI, you'll find me o
 ## 🌟 Featured Projects
 
 ### 🔨 [OpenDaylight Release Engineering](https://github.com/opendaylight/releng-builder)
+
 Complete CI/CD infrastructure for OpenDaylight—orchestrating automated builds, testing, and deployment across 60+ repositories.
 
 **Impact:** Supports 100+ developers | 500K+ builds executed | 99.8% uptime
 
 ### 🐳 [Packer Build Action](https://github.com/askb/packer-build-action)
+
 GitHub Action for automated cloud image building with secure bastion integration. Enables ephemeral infrastructure provisioning in CI pipelines.
 
 **Tech:** GitHub Actions • Cloud Automation • Security
 
 ### 🛠️ [LF Release Engineering Actions](https://github.com/lfit/releng-reusable-workflows)
+
 Suite of 40+ reusable GitHub Actions and workflows for the Linux Foundation ecosystem. Production-grade automation for multi-cloud deployments.
 
 **Used by:** 50+ LF projects | 1000+ workflow runs/month
 
 ### ⚡ [LFTools](https://github.com/lfit/releng-lftools)
+
 Python CLI tool for Linux Foundation infrastructure management—cloud resource orchestration, build automation, and developer utilities.
 
 **Tech:** Python • CLI Development • API Integration
 
 ### 🤖 [AI Experiments](https://github.com/askb/ai-n8domata)
+
 Exploring AI-assisted automation, LLM integration workflows, and intelligent tooling. Experimenting with n8n, vector databases, and AI agents.
 
 **Status:** Active experimentation | Learning in public
@@ -65,12 +70,14 @@ Exploring AI-assisted automation, LLM integration workflows, and intelligent too
 <div align="center">
 
 ### Languages & Scripting
+
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Infrastructure & Cloud
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -79,6 +86,7 @@ Exploring AI-assisted automation, LLM integration workflows, and intelligent too
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### CI/CD & Automation
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -92,9 +100,11 @@ Exploring AI-assisted automation, LLM integration workflows, and intelligent too
 <div align="center">
 
 ### Daily Contribution Activity
+
 ![contributions graph](graph.png)
 
 ### Overall Metrics
+
 ![Metrics](https://github.com/askb/askb/blob/main/github-metrics.svg)
 
 </div>
@@ -111,6 +121,7 @@ Contributing across multiple Linux Foundation projects and communities:
 - **FD.io** - Build System Maintenance
 
 ### Languages by Contribution Volume
+
 Shell • Python • Java • Makefile • JavaScript • Dockerfile • HTML • Groovy • HCL • VimScript • TypeScript • ProtocolBuffer • PowerShell • Perl • Groff • Go • CSS • C++ • C • Batchfile
 
 ---
@@ -118,6 +129,7 @@ Shell • Python • Java • Makefile • JavaScript • Dockerfile • HTML �
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
+
 - 🔧 Release engineering and deployment strategies
 - 🐧 Infrastructure optimization and cloud architecture
 - 🚀 CI/CD pipeline design and best practices
@@ -126,6 +138,7 @@ I'm always interested in discussing:
 - 🚴 Trail recommendations (tech conferences or bike trails!)
 
 ### How to Reach Me
+
 - **Email:** [askb23@gmail.com](mailto:askb23@gmail.com)
 - **Twitter/X:** [@askb23](https://twitter.com/askb23)
 - **Keybase:** [askb](https://keybase.io/askb)
