@@ -10,6 +10,7 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
   actionlint:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: Download actionlint
@@ -23,6 +24,7 @@ jobs:
 
   commit-message:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     # Only run on pull requests
     if: github.event_name == 'pull_request'
     steps:
