@@ -134,7 +134,7 @@ Contributing across multiple Linux Foundation projects and communities:
 - **FD.io** - Build System Maintenance
 
 ### Languages by Contribution Volume
-Shell • Python • Java • Dockerfile • Makefile • TypeScript • JavaScript • Groovy • CSS • Go • PowerShell • Perl • Kotlin • Jinja • HTML • HCL • Dart
+Shell • Python • Java • Makefile • Dockerfile • TypeScript • JavaScript • Groovy • CSS • Go • PowerShell • Perl • Kotlin • Jinja • HTML • HCL • Dart
 
 ---
 
@@ -178,6 +178,6 @@ If my open source contributions have helped you, consider buying me a coffee! Yo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=askb&color=brightgreen&style=flat-square&label=Profile+Views)
 
-*Last updated: Auto-generated via GitHub Actions • 2026-04-27 02:47 UTC*
+*Last updated: Auto-generated via GitHub Actions • 2026-05-04 02:52 UTC*
 
 </div>
