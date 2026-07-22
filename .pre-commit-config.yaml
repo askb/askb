@@ -45,6 +45,7 @@ repos:
     rev: 745eface02aef23e168a8afb6b5737818efbea95  # frozen: v0.11.0.1
     hooks:
       - id: shellcheck
+        args: ["-e", "SC2155,SC1090"]
 
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: 192ad822316c3a22fb3d3cc8aa6eafa0b8488360  # frozen: v0.45.0
