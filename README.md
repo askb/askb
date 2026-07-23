@@ -39,25 +39,21 @@ When I'm not optimizing build systems or tinkering with smart home automations, 
 ### 🤖 AI & Agentic Automation
 
 #### 🧠 [ha-gitops](https://github.com/askb/ha-gitops) &nbsp;`Shell`
-
 **GitOps for your smart home.** PR-gated backup add-on for Home Assistant where *every* config change becomes a reviewable pull request — validated by CI and AI-assisted review before it merges. Bring version control discipline (and Copilot agents) to your house.
 
 `Home Assistant` • `GitHub Actions` • `Agentic CI/CD` • `GitOps`
 
 #### 🛠️ [dotcopilot](https://github.com/askb/dotcopilot) &nbsp;·&nbsp; [dotclaude](https://github.com/askb/dotclaude) &nbsp;`Shell`
-
 Modular, reusable configuration for **GitHub Copilot CLI** and **Claude Code** — agents, rules, hooks, skills, and templates that supercharge AI-assisted development. Drop-in setup for anyone running agentic coding tools.
 
 `Copilot` • `Claude` • `AI Agents` • `Developer Experience`
 
 #### 🔗 [ai-n8domata](https://github.com/askb/ai-n8domata) &nbsp;`Shell`
-
 Self-hosted **n8n AI automation** stack — LLM-driven workflows, agent orchestration, and intelligent tooling wired together for real-world tasks.
 
 `n8n` • `LLM Workflows` • `AI Agents` • `Automation`
 
 #### 🤝 [matrix-meetbot](https://github.com/askb/matrix-meetbot) &nbsp;`Python`
-
 A Matrix-native meeting bot (a modern port of the OpenDev IRC MeetBot) running **live on a GitHub Actions runner** — minutes, action items, and summaries without a server.
 
 `Python` • `Matrix` • `GitHub Actions` • `ChatOps`
@@ -65,13 +61,11 @@ A Matrix-native meeting bot (a modern port of the OpenDev IRC MeetBot) running *
 ### 🏠 Smart Home & Health AI
 
 #### 🏋️ [ha-garmin-fitness-coach-app](https://github.com/askb/ha-garmin-fitness-coach-app) &nbsp;`TypeScript` ⭐
-
 Your **AI sport scientist.** Transforms Garmin health data into evidence-based, personalized coaching — workout recommendations, diabetes tracking, and fitness analytics — in a modern web app.
 
 `Next.js` • `TypeScript` • `tRPC` • `Drizzle ORM` • `AI/ML`
 
 #### 💪 [ha-garmin-fitness-coach-addon](https://github.com/askb/ha-garmin-fitness-coach-addon) &nbsp;`Python` ⭐
-
 Home Assistant add-on that syncs **Garmin Connect** data into an AI-powered coaching dashboard. Multi-user health tracking with InfluxDB time-series storage and Grafana visualizations.
 
 `Python` • `HA Add-on` • `InfluxDB` • `Grafana` • `AI Coaching`
@@ -79,7 +73,6 @@ Home Assistant add-on that syncs **Garmin Connect** data into an AI-powered coac
 ### ⚙️ Release Engineering & DevOps Tools
 
 #### 🔨 [OpenDaylight releng-builder](https://github.com/opendaylight/releng-builder) &nbsp;`Shell`
-
 Complete CI/CD infrastructure for OpenDaylight — orchestrating automated builds, testing, and deployment across 60+ repositories.
 **Impact:** 100+ developers • 500K+ builds • 99.8% uptime
 
@@ -110,7 +103,6 @@ Bridges the two review worlds — turns a **GitHub pull request into a Gerrit ch
 <div align="center">
 
 ### 🤖 AI & Agentic Development
-
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -118,7 +110,6 @@ Bridges the two review worlds — turns a **GitHub pull request into a Gerrit ch
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Languages & Scripting
-
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -126,7 +117,6 @@ Bridges the two review worlds — turns a **GitHub pull request into a Gerrit ch
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Infrastructure & Cloud
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -135,13 +125,11 @@ Bridges the two review worlds — turns a **GitHub pull request into a Gerrit ch
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### CI/CD & Automation
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Smart Home & IoT
-
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
@@ -149,7 +137,6 @@ Bridges the two review worlds — turns a **GitHub pull request into a Gerrit ch
 ![Frigate](https://img.shields.io/badge/Frigate_NVR-1E88E5?style=for-the-badge&logo=frigate&logoColor=white)
 
 ### Web & App
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
@@ -163,11 +150,9 @@ Bridges the two review worlds — turns a **GitHub pull request into a Gerrit ch
 <div align="center">
 
 ### Daily Contribution Activity
-
 ![contributions graph](graph.png)
 
 ### Overall Metrics
-
 ![Metrics](https://github.com/askb/askb/blob/main/github-metrics.svg)
 
 </div>
@@ -184,13 +169,13 @@ Contributing across multiple Linux Foundation projects and communities:
 - **FD.io** - Build System Maintenance
 
 ### Languages by Contribution Volume
+Shell • Python • Java • Dockerfile • TypeScript • Makefile • JavaScript • CSS • HTML • Groovy • Kotlin • PowerShell • Perl • HCL • Dart
 
 ---
 
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
-
 - 🔧 Release engineering and deployment strategies
 - 🐧 Infrastructure optimization and cloud architecture
 - 🚀 CI/CD pipeline design and best practices
@@ -201,7 +186,6 @@ I'm always interested in discussing:
 - 🚴 Trail recommendations (tech conferences or bike trails!)
 
 ### How to Reach Me
-
 - **Email:** [askb23@gmail.com](mailto:askb23@gmail.com)
 - **Twitter/X:** [@askb23](https://twitter.com/askb23)
 - **Keybase:** [askb](https://keybase.io/askb)
@@ -229,6 +213,6 @@ If my open source contributions have helped you, consider buying me a coffee! Yo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=askb&color=brightgreen&style=flat-square&label=Profile+Views)
 
-*Last updated: Auto-generated via GitHub Actions • 2026-07-20 02:55 UTC*
+*Last updated: Auto-generated via GitHub Actions • 2026-07-23 00:04 UTC*
 
 </div>
